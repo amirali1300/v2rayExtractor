@@ -23,8 +23,8 @@ CONFIG_CHANNEL_ID_RAW = os.getenv('TELEGRAM_CHANNEL_ID', 'v2ray_Extractor').lstr
 CONFIG_CHANNEL_URL = f"https://t.me/{CONFIG_CHANNEL_ID_RAW}"
 
 MARKUP = types.InlineKeyboardMarkup(row_width=2)
-btn1 = types.InlineKeyboardButton("Github", url="https://github.com/arshiacomplus")
-btn2 = types.InlineKeyboardButton("Author", url="https://t.me/arshiacomplus")
+btn1 = types.InlineKeyboardButton("Github", url="https://github.com/amirali1300")
+btn2 = types.InlineKeyboardButton("Author", url="https://t.me/DrAa_samr")
 MARKUP.add(btn1, btn2)
 
 
@@ -173,3 +173,4 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
