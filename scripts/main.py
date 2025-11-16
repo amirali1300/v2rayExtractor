@@ -229,16 +229,7 @@ def process_and_save_results(checked_configs: List[str]) -> Dict[str, int]:
                 location_code = match.group(1).upper()
         except Exception:
             pass
-# --- اضافه کردن اسم احمد + پرچم کشور ---
-def country_code_to_flag(cc):
-    try:
-        return ''.join(chr(0x1F1E6 + ord(c) - ord('A')) for c in cc.upper())
-    except:
-        return "🏳️"
 
-flag = country_code_to_flag(location_code)
-config = f"ahmad {flag} | {config}"
-# -----------------------------------------
         if location_code not in configs_by_location:
             configs_by_location[location_code] = []
         configs_by_location[location_code].append(config)
@@ -344,3 +335,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
