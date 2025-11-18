@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#%253E%253E%2540DailyV2RY%3A%3AJP
+vless://ec52eb59-a9d6-4693-bed4-490f2b244195@104.18.46.50:443?&security=tls&sni=pq-jps.pqvip.top&type=ws&headerType=none&host=pq-jps.pqvip.top&path=%2Fpq%2Fjp1#%253E%253E%2540v2nodes%3A%3AJP
