@@ -1,5 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#%253E%253E%2540v2ray1_ng%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@31.13.208.3:1234#%253E%253E%2540v2rayngvpn%3A%3AFI
-vless://3a066455-22e9-45e7-804e-f1aaaa280e02@144.31.169.4:6443?security=reality&encryption=none&pbk=eg81n6lQc3AyTJJyYbQFTYuaKWQBGJ9tSpAWWow1zno&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#%253E%253E%2540v2nodes%3A%3AFI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%253E%253E%2540ShadowsocksM%3A%3AFI
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#%253E%253E%2540v2nodes%3A%3AFI
