@@ -1,1 +1,1 @@
-vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp&encryption=none#%253E%253E%2540v2ray_configs_pool%3A%3ATR
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?encryption=none&packetEncoding=xudp#%253E%253E%2540ShadowsocksM%3A%3ATR

@@ -1,1 +1,0 @@
-trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ASE
