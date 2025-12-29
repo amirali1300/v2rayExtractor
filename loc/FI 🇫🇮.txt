@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#%253E%253E%2540v2ray1_ng%3A%3AFI
 vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#%253E%253E%2540v2rayngvpn%3A%3AFI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=&encryption=none&host=cloudflare.com&type=ws#%253E%253E%2540FreakConfig%3A%3AFI
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#%253E%253E%2540flyv2ray%3A%3AFI
