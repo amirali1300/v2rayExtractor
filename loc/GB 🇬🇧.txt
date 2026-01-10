@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%253E%253E%2540FreakConfig%3A%3AGB
 trojan://zL7CpPYxhvFtYqm2yAbHrw@209.97.191.29:7392?security=none&headerType=none&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3AGB
+vless://0c24b522-06b9-4767-f67e-59a34c5aeeb7@aqua-aria.company:2096/?type=ws&encryption=none&flow=&host=deguo2.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=deguo2.shuiwudengli.dpdns.org#%253E%253E%2540oneclickvpnkeys%3A%3AGB
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%253E%253E%2540oneclickvpnkeys%3A%3AGB
