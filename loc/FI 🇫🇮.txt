@@ -1,7 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#%253E%253E%2540v2nodes%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn1.suio.me&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=rb11.fasst11.shop&fp=chrome&allowinsecure=0&type=ws&sni=rb11.fasst11.shop#%253E%253E%2540vpn_proxy_custom%3A%3AFI
+vless://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ceo.nexun.ir&fp=chrome&type=ws&allowInsecure=0&sni=ceo.nexun.ir#%253E%253E%2540FreakConfig%3A%3AFI
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%253E%253E%2540prrofile_purple%3A%3AFI

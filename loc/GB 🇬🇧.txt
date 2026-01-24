@@ -1,3 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%253E%253E%2540FreakConfig%3A%3AGB
-vless://e258977b-e413-4718-a3af-02d75492c349@57.128.179.254:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AGB
+vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&sni=joss.gvpn2.web.id&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AGB
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%253E%253E%2540oneclickvpnkeys%3A%3AGB
