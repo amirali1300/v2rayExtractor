@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%253E%253E%2540configV2rayNG%3A%3AKR
 vless://00000000-0000-4000-8000-000000000000@175.118.73.120:17223/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AKR
 vless://00000000-0000-4000-8000-000000000000@175.123.172.254:30003/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AKR
