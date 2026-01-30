@@ -1,2 +1,1 @@
-vless://2b7a1667-345e-4fdf-b1a7-4957435be682@cf3.xuiprospeed.ir:2053?security=tls&type=ws&headerType=&path=%2Flove&host=finlo.xuiprospeed.ir&sni=finlo.xuiprospeed.ir&fp=#%253E%253E%2540vip_vpn_2022%3A%3AFI
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AFI
+vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.gologiah-shop.ir:3488?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#%253E%253E%2540DailyV2RY%3A%3AFI
