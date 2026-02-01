@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%253E%253E%2540FreakConfig%3A%3AGB
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42044/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AGB
-vless://00000000-0000-4000-8000-000000000000@23.27.20.244:13896/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AGB
 vless://00000000-0000-4000-8000-000000000000@51.195.254.49:20205/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AGB
+vless://00000000-0000-4000-8000-000000000000@23.27.20.244:13896/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AGB
