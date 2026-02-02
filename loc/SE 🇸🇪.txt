@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%253E%253E%2540v2nodes%3A%3ASE
-vless://1bc0b294-bbc8-471f-9d44-b3d4d270bed2@144.31.221.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ASE
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%253E%253E%2540configV2rayNG%3A%3ASE
