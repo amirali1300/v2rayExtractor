@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTQ3eVlPb0hhN0ZnSXN5cVE4MnR3@87.228.9.43:1080#%253E%253E%2540prrofile_purple%3A%3ARU
 vless://669be00c-67b4-4b87-b08f-311c45abced2@94.103.2.81:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&type=raw&headertype=none#%253E%253E%2540configshub2%3A%3ARU
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%253E%253E%2540configV2rayNG%3A%3ARU
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@109.120.190.203:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ARU
