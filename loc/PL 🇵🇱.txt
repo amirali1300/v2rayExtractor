@@ -1,2 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#%253E%253E%2540OutlineVpnOfficial%3A%3APL
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%253E%253E%2540v2rayng_fast%3A%3APL
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%253E%253E%2540outline_vpn%3A%3APL
 trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%253E%253E%2540outline_vpn%3A%3APL
+vless://2bd80876-fc38-445a-9a32-3c7233e1bfb7@176.98.186.5:443?security=reality&encryption=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv21.towersflowerss.com#%253E%253E%2540V2RAY_VMESS_free%3A%3APL
