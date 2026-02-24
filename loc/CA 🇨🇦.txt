@@ -1,2 +1,1 @@
-trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#%253E%253E%2540configV2rayNG%3A%3ACA
