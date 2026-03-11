@@ -1,2 +1,0 @@
-vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#%253E%253E%2540configshub2%3A%3AKZ
-vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@kzcdn1.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=kzcdn1.suio.me#%253E%253E%2540vmessorg%3A%3AKZ
