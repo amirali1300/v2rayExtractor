@@ -2,5 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ@
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.2.61:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3APL
-vless://961011c9-1244-414e-ba25-75479b35b553@212.233.73.75:1488?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%253E%253E%2540v2nodes%3A%3APL
 vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@178.17.59.41:8080?security=reality&type=tcp&headerType=&path=&host=&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&sid=#%253E%253E%2540vmessorg%3A%3APL
