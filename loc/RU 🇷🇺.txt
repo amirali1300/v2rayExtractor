@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206ODNhY2Y2OWVkYjRlNTQ1Mw@194.87.69.143:12091#%253E%253E%2540v2nodes%3A%3ARU
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.246.110.66:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ARU
