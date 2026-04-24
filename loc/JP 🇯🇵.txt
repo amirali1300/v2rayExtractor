@@ -1,5 +1,7 @@
-ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.56:30312#%253E%253E%2540v2nodes%3A%3AJP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%253E%253E%2540v2ray_configs_pool%3A%3AJP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%253E%253E%2540v2ray_configs_pool%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%253E%253E%2540configshub2%3A%3AJP
+ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.56:30312#%253E%253E%2540v2nodes%3A%3AJP
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none&path=/&allow_insecure=0#%253E%253E%2540configshub2%3A%3AJP
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#%253E%253E%2540configshub2%3A%3AJP
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%253E%253E%2540v2ray_configs_pool%3A%3AJP
