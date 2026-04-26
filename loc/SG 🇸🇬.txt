@@ -1,2 +1,3 @@
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%253E%253E%2540OutlineVpnOfficial%3A%3ASG
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%253E%253E%2540configshub2%3A%3ASG
+vless://3ae99729-5326-4f70-937d-fcdc6910f9c7@ct.877774.xyz:443?allowInsecure=1&sni=do-sgp1.862400.xyz&type=ws&host=do-sgp1.862400.xyz&path=/announcement?ed=2048fp=random&security=tls#%253E%253E%2540v2nodes%3A%3ASG
