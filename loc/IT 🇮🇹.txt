@@ -1,2 +1,1 @@
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AIT
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#%253E%253E%2540configshub2%3A%3AIT
