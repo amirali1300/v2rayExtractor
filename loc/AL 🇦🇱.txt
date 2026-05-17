@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowalhTSkgyazdlV2tER3VGcVY4d3EzbktycThZczV6Vw==@130.49.189.40:8080#%253E%253E%2540v2ray_configs_pool%3A%3AAL
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%253E%253E%2540FreakConfig%3A%3AAL
