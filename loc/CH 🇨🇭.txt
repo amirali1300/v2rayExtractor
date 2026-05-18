@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%253E%253E%2540FreakConfig%3A%3ACH
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?encryption=none&host=edt2-lgy.pages.dev&path=%2F&security=tls&sni=edt2-lgy.pages.dev&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ACH
