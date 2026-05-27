@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%253E%253E%2540v2ray_configs_pool%3A%3AEE
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@89.150.40.152:443?encryption=none&host=1-aym.pages.dev&security=tls&sni=1-aym.pages.dev&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3AEE
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@109.206.241.16:443?encryption=none&fp=chrome&host=ewgruiehoe.pages.dev&path=%2F&security=tls&sni=ewgruiehoe.pages.dev&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3AEE
