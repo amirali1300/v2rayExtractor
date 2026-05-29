@@ -1,2 +1,0 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%253E%253E%2540FreakConfig%3A%3ABG
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?path=%2Fws&security=&encryption=none&host=45.39.241.51&type=ws#%253E%253E%2540configV2rayNG%3A%3ABG

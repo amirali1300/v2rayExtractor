@@ -1,3 +1,3 @@
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#%253E%253E%2540oneclickvpnkeys%3A%3AAT
-vless://231a569a-55f0-4d31-94ac-dbe4bed3efdb@45.91.94.121:16606?allowInsecure=1&sni=at1.fun88linkvn.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%253E%253E%2540v2nodes%3A%3AAT
+vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?type=ws&path=/#%253E%253E%2540v2nodes%3A%3AAT
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AAT
