@@ -1,4 +1,1 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%253E%253E%2540configV2rayNG%3A%3AEE
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AEE
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AEE
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.186.26:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AEE
+vless://a3798125-5413-0002-a8eb-267708c85be8@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#%253E%253E%2540v2rayngvpn%3A%3AEE
