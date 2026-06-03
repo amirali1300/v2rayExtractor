@@ -1,10 +1,8 @@
 trojan://humanity@104.18.16.56:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
-trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
-trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
-trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
 trojan://humanity@208.103.161.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%253E%253E%2540v2ray_configs_pool%3A%3APL
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3APL
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
+trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2F1.1#%253E%253E%2540oneclickvpnkeys%3A%3APL
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=128.204.223.94&path=%2F&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3APL
-hysteria2://68cf2e7761c240d9ba4c31f99ab37a9f@157.22.241.242:443?security=tls&insecure=0&sni=157.22.241.242#%253E%253E%2540configshub2%3A%3APL
