@@ -1,1 +1,1 @@
-vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?encryption=none&flow=xtls-rprx-vision&fp=&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&security=reality&sni=cms-res-web.online.sberbank.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#%253E%253E%2540v2nodes%3A%3ARU
