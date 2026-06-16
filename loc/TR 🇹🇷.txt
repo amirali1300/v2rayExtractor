@@ -1,1 +1,3 @@
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#%253E%253E%2540ShadowsocksM%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%253E%253E%2540shadowproxy66%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%253E%253E%2540shadowproxy66%3A%3ATR
+vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#%253E%253E%2540shadowproxy66%3A%3ATR
