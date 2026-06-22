@@ -1,4 +1,4 @@
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#%253E%253E%2540configV2rayNG%3A%3AFI
-vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%253E%253E%2540configV2rayNG%3A%3AFI
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=random&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#%253E%253E%2540v2rayngvpn%3A%3AFI
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%253E%253E%2540configV2rayForFree%3A%3AFI
