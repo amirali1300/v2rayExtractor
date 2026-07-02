@@ -1,2 +1,2 @@
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443/?type=ws&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+vless://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?path=%2Fws%2F147182ba-946d-9ef2-a209-dbfcccec9231&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-dfeb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-dfeb.up.railway.app#%253E%253E%2540flyv2ray%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%253E%253E%2540oneclickvpnkeys%3A%3ASG
