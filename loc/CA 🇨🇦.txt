@@ -1,1 +1,1 @@
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%253E%253E%2540FreakConfig%3A%3ACA
+vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3ACA
