@@ -1,6 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#%253E%253E%2540v2ray1_ng%3A%3AIE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#%253E%253E%2540configV2rayNG%3A%3AIE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#%253E%253E%2540configV2rayNG%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#%253E%253E%2540configV2rayNG%3A%3AIE
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@funky-opossum.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#%253E%253E%2540oneclickvpnkeys%3A%3AIE
 trojan://OD90375861@fit-calf.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
 trojan://OD90375861@wired-tick.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#%253E%253E%2540outline_vpn%3A%3AIE
