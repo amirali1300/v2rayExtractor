@@ -1,2 +1,2 @@
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@210.203.195.52:33890?security=tls&type=ws&path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AJP
-vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=&encryption=none&headerType=none&type=tcp#%253E%253E%2540configV2rayNG%3A%3AJP
+vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:46784?sni=t1.hhaakk9922.com&type=grpc&serviceName=ljfxz&fp=chrome&security=tls#%253E%253E%2540v2nodes%3A%3AJP
