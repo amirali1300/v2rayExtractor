@@ -1,0 +1,1 @@
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#%253E%253E%2540oneclickvpnkeys%3A%3ALV
