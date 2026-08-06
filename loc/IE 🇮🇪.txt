@@ -1,3 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%253E%253E%2540configV2rayNG%3A%3AIE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSnBzZDg3VTRQTExyV1JW@20.234.89.202:443#%253E%253E%2540configV2rayNG%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%253E%253E%2540prrofile_purple%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#%253E%253E%2540prrofile_purple%3A%3AIE
+trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#%253E%253E%2540oneclickvpnkeys%3A%3AIE
 trojan://ND91608427@skilled-lioness.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
+trojan://UO36402987@warm-bass.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AIE
