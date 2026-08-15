@@ -1,3 +1,4 @@
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%253E%253E%2540v2nodes%3A%3AHK
 trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%253E%253E%2540oneclickvpnkeys%3A%3AHK
 trojan://ND91608427@ace-starling.rooster465.autos:443#%253E%253E%2540oneclickvpnkeys%3A%3AHK
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%253E%253E%2540oneclickvpnkeys%3A%3AHK
