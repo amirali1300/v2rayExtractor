@@ -1,1 +1,1 @@
-trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?serviceName=mygrpc&type=grpc#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%253E%253E%2540FreakConfig%3A%3ARU
