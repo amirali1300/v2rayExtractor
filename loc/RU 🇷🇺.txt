@@ -1,4 +1,0 @@
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.183:8443?sni=user-6a8d949a.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%253E%253E%2540v2nodes%3A%3ARU
-vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%253E%253E%2540FreakConfig%3A%3ARU
-vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#%253E%253E%2540v2nodes%3A%3ARU
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%253E%253E%2540prrofile_purple%3A%3ARU
