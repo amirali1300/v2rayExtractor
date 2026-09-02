@@ -1,7 +1,4 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cnJSOTdPNkpJUnpTUkc4dUhpbVZDZ0xFc3NqaXB0aGlDNEhsaWVxLzQvdz06QitnbXJQMXR4UWxpVFR3ME5OVm9IWit3ak5BTDNuS0hab3BMdHFsRUFuST0@65.109.215.50:13049#%253E%253E%2540v2rayNG_Matsuri%3A%3AFI
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cnJSOTdPNkpJUnpTUkc4dUhpbVZDZ0xFc3NqaXB0aGlDNEhsaWVxLzQvdz06SHRiNkF3QVJZQnQrMTkzTEZ5RG5mZTFmUytRRHU5SkhzaVN3MXdhTjB1Yz0@65.109.215.50:13049#%253E%253E%2540v2rayNG_Matsuri%3A%3AFI
-trojan://B%2BgmrP1txQliTTw0NNVoHZ%2BwjNAL3nKHZopLtqlEAnI%3D@65.109.215.50:51773?security=none&headerType=&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3AFI
-trojan://Htb6AwARYBt%2B193LFyDnfe1fS%2BQDu9JHsiSw1waN0uc%3D@65.109.215.50:51773?security=none&headerType=&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3AFI
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#%253E%253E%2540oneclickvpnkeys%3A%3AFI
