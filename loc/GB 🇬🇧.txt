@@ -1,8 +1,10 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?encryption=none&security=none&type=tcp#%253E%253E%2540PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?encryption=none&security=none&type=tcp#%253E%253E%2540DirectVPN%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22224?encryption=none&security=none&type=tcp#%253E%253E%2540VlessConfig%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?encryption=none&security=none&type=tcp#%253E%253E%2540PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22224?encryption=none&security=none&type=tcp#%253E%253E%2540VlessConfig%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22223?encryption=none&security=none&type=tcp#%253E%253E%2540DirectVPN%3A%3AGB
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=0&alpn=http/1.1#%253E%253E%2540v2nodes%3A%3AGB
+vless://d4d2d3f3-9dec-4e8f-8daf-145ecac96e66@188.114.97.8:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=crimson-leaf-7e45.hzhduuebfjdcb.workers.dev&path=%2FeyJqdW5rIjoiODgwQ1AwWDV0MnFTRWE1cCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=cRIMSON-LeAf-7E45.hzhdUuEBFjDCB.workERs.DEv&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#%253E%253E%2540PrivateVPNs%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22224?encryption=none&security=none&type=tcp#%253E%253E%2540VlessConfig%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22223?encryption=none&security=none&type=tcp#%253E%253E%2540DirectVPN%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22223?encryption=none&security=none&type=tcp#%253E%253E%2540DirectVPN%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22224?encryption=none&security=none&type=tcp#%253E%253E%2540VlessConfig%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none&security=none&type=tcp#%253E%253E%2540PrivateVPNs%3A%3AGB
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#%253E%253E%2540oneclickvpnkeys%3A%3AGB
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%253E%253E%2540oneclickvpnkeys%3A%3AGB
