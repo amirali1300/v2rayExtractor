@@ -1,2 +1,3 @@
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3ARU
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?path=%2FeCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=firefox&type=xhttp&sni=2gis.ru&sid=d45603#%253E%253E%2540configV2rayNG%3A%3ARU
+vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@77.222.53.158:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?allowInsecure=1&encryption=none&host=ru05.abvpn.ru&path=%2Fwebsocket&security=tls&sni=ru05.abvpn.ru&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ARU
