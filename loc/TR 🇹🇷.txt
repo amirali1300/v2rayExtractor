@@ -1,0 +1,1 @@
+vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#%253E%253E%2540configV2rayNG%3A%3ATR
