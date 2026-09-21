@@ -1,1 +1,1 @@
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&host=queuev4.vk.com&path=%2Fapi&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ALV
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.38.139.23:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fjumping%252Fclass%252Fbt%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ALV
