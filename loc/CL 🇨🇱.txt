@@ -1,1 +1,5 @@
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?encryption=none&host=platform113.halalkhor.info&path=%2Fplatform113&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ACL
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?encryption=none&host=platform115.halalkhor.info&path=%2Fplatform115&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ACL
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ACL
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?path=%2Fplatform109&security=none&encryption=none&host=platform109.halalkhor.info&type=ws#%253E%253E%2540v2rayNG_Matsuri%3A%3ACL
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=%2Fplatform118&security=none&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ACL
