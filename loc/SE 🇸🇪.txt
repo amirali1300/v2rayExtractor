@@ -1,6 +1,5 @@
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#%253E%253E%2540v2rayNG_Matsuri%3A%3ASE
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@62.60.234.29:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ASE
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.234:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ASE
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.26:443?encryption=none&fp=firefox&host=shephe.dpdns.org&security=tls&sni=shephe.dpdns.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ASE
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@2.26.17.128:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ASE
 vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#%253E%253E%2540outline_vpn%3A%3ASE
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@144.31.243.120:8443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3ASE
