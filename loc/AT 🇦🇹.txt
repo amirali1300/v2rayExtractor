@@ -1,2 +1,2 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#%253E%253E%2540v2rayNG_Matsuri%3A%3AAT
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3AAT
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AAT
