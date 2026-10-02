@@ -1,2 +1,0 @@
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#%253E%253E%2540freeland8%3A%3ARU
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#%253E%253E%2540oneclickvpnkeys%3A%3ARU
