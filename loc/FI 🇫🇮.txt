@@ -1,3 +1,3 @@
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?encryption=none&security=none&type=tcp#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.243.18:9872?encryption=none&fp=&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#%253E%253E%2540oneclickvpnkeys%3A%3AFI
 vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?encryption=none&fp=&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&security=reality&serviceName=grpce5bb9e71&sid=d0ea1847066af5a6&sni=www.samsung.com&type=grpc#%253E%253E%2540oneclickvpnkeys%3A%3AFI
+hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443/?sni=fi01.clgate.network#%253E%253E%2540oneclickvpnkeys%3A%3AFI
