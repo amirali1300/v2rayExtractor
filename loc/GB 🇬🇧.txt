@@ -2,7 +2,5 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%253E%253E%2540V2rayNG3%3A%3AGB
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%253E%253E%2540v2nodes%3A%3AGB
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443#%253E%253E%2540v2rayNG_Matsuri%3A%3AGB
-vless://395bab7e-302a-42b4-bac7-8acb7d36fdf3@57.129.130.10:52014?encryption=none&fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#%253E%253E%2540oneclickvpnkeys%3A%3AGB
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%253E%253E%2540v2ray1_ng%3A%3AGB
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?encryption=none&security=none&serviceName=vless&type=grpc#%253E%253E%2540oneclickvpnkeys%3A%3AGB
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%253E%253E%2540EliV2ray%3A%3AGB
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:80#%253E%253E%2540v2rayNG_Matsuri%3A%3AGB
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%253E%253E%2540FreakConfig%3A%3AGB

@@ -1,5 +1,5 @@
-trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1&sni=desired-boxer.rooster465.autos#%253E%253E%2540v2nodes%3A%3ASG
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1&sni=glowing-marmoset.rooster465.autos#%253E%253E%2540v2nodes%3A%3ASG
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#%253E%253E%2540v2nodes%3A%3ASG
-vless://d90087c3-54f5-4283-a13f-615260c8b0c7@172.104.164.70:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=googleapis.com#%253E%253E%2540v2rayNG_Matsuri%3A%3ASG
-vless://f2eada1b-fdec-48c6-8638-18ade32993d4@5.223.41.93:80?encryption=none&security=none&type=ws&path=%2F#%253E%253E%2540V2rayNG3%3A%3ASG
+trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#%253E%253E%2540v2nodes%3A%3ASG
+trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ASG
