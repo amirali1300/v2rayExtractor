@@ -1,9 +1,10 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#%253E%253E%2540v2rayNG_Matsuri%3A%3AKR
 ss://YWVzLTI1Ni1nY206YWM5YzBhN2I@211.174.113.172:49642#%253E%253E%2540v2rayNG_Matsuri%3A%3AKR
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
-trojan://UX82473651@evolving-ewe.rooster465.autos:443?allowInsecure=1&sni=evolving-ewe.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@kind-stork.rooster465.autos:443?allowInsecure=1&sni=kind-stork.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@liked-eft.rooster465.autos:443?allowInsecure=1&sni=liked-eft.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
+trojan://UX82473651@neutral-quail.rooster465.autos:443?allowInsecure=1&sni=neutral-quail.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@noted-cougar.rooster465.autos:443?allowInsecure=1&sni=noted-cougar.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?allowInsecure=1&sni=optimum-snapper.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
 trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#%253E%253E%2540v2nodes%3A%3AKR
